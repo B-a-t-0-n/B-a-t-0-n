@@ -69,20 +69,3 @@
   <img src="https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Alloy" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
-
-## 📊 GitHub-статистика
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B-a-t-0-n&theme=github_dark" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B-a-t-0-n&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B-a-t-0-n&theme=github_dark" alt="Repositories per language" />
-</p>
-
----
-
-<p align="center">
-  <strong>От идеи и доменной модели — до API, интерфейса и deployment.</strong>
-</p>
