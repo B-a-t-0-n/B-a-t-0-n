@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <code>Анализ требований</code> → <code>Реализация</code> → <code>Деплой</code>
+  <code>Анализ требований</code> → <code>Проектирование архитектуры</code> → <code>Реализация frontend и backend</code> → <code>Тестирование</code> → <code>Деплой</code>
 </p>
 
 <p align="center">
