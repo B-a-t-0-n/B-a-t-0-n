@@ -11,13 +11,6 @@
   <img src="https://img.shields.io/github/followers/B-a-t-0-n?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
 </p>
 
-## 👨‍💻 Обо мне
-
-- 🎯 Fullstack-разработчик: **Vue** на frontend и **C# / ASP.NET Core** на backend
-- 🧩 Проектирую системы с **DDD** и **Clean Architecture** в формате микросервисов или модульного монолита
-- 🗃️ Работаю с **PostgreSQL**, **Redis**, **RabbitMQ** и **S3-хранилищами**
-- 🚀 Контейнеризирую и развёртываю приложения с **Docker** и **Kubernetes**, выстраиваю observability с **Grafana**, **Loki**, **Alloy** и **OpenTelemetry**
-
 ## 🛠️ Технологический стек
 
 ### Frontend
