@@ -16,9 +16,9 @@
 ## 👨‍💻 Обо мне
 
 - 🎯 Fullstack-разработчик: **Vue** на frontend и **C# / ASP.NET Core** на backend
-- 🧩 Проектирую системы на основе **DDD** и **микросервисной архитектуры**
+- 🧩 Проектирую системы с **DDD** и **Clean Architecture** в формате микросервисов или модульного монолита
 - 🗃️ Работаю с **PostgreSQL**, **Redis**, **RabbitMQ** и **S3-хранилищами**
-- 🚀 Контейнеризирую и развёртываю приложения с помощью **Docker** и **Kubernetes**
+- 🚀 Контейнеризирую и развёртываю приложения с **Docker** и **Kubernetes**, выстраиваю observability с **Grafana**, **Loki**, **Alloy** и **OpenTelemetry**
 
 ## 🛠️ Технологический стек
 
@@ -50,13 +50,25 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="S3" />
 </p>
 
-### Архитектура и DevOps
+### Архитектура
 
 <p>
   <img src="https://img.shields.io/badge/DDD-Domain--Driven_Design-6A5ACD?style=for-the-badge" alt="Domain-Driven Design" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-3C3C3D?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/Microservices-Architecture-2F4F4F?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Modular_Monolith-0B7285?style=for-the-badge" alt="Modular Monolith" />
+</p>
+
+### DevOps и Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Observability-5C2D91?style=for-the-badge" alt="Observability" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Loki" />
+  <img src="https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Alloy" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
 ## 📊 GitHub-статистика
