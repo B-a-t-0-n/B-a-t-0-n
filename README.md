@@ -1,9 +1,11 @@
 <h1 align="center">Привет, я Владислав Книгин 👋</h1>
 
-<h3 align="center">Fullstack Web Developer</h3>
+<p align="center">
+  <strong>Fullstack-разработчик</strong>, активно участвую в создании платформ полного цикла.
+</p>
 
 <p align="center">
-  Я fullstack-разработчик. Активно участвую в создании платформ полного цикла — от анализа требований до реализации и деплоя.
+  <code>Анализ требований</code> → <code>Реализация</code> → <code>Деплой</code>
 </p>
 
 <p align="center">
