@@ -69,3 +69,15 @@
   <img src="https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Alloy" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
+
+### AI и агентная разработка
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Skills-2563EB?style=for-the-badge" alt="Skills" />
+  <img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Hooks-0EA5E9?style=for-the-badge" alt="Hooks" />
+  <img src="https://img.shields.io/badge/Plugins-9333EA?style=for-the-badge" alt="Plugins" />
+  <img src="https://img.shields.io/badge/Agent_Harness-16A34A?style=for-the-badge" alt="Agent Harness" />
+</p>
